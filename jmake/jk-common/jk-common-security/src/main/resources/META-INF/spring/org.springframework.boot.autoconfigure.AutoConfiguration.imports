@@ -1,0 +1,7 @@
+com.jk.common.security.service.JkUserDetailsServiceImpl
+com.jk.common.security.service.JkAppUserDetailsServiceImpl
+com.jk.common.security.service.JkRedisOAuth2AuthorizationService
+com.jk.common.security.service.JkRedisOAuth2AuthorizationConsentService
+com.jk.common.security.component.JkSecurityInnerAspect
+com.jk.common.security.component.JkSecurityMessageSourceConfiguration
+com.jk.common.security.service.JkRemoteRegisteredClientRepository

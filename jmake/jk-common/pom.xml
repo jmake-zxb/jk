@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.jk</groupId>
+        <artifactId>jmake</artifactId>
+        <version>${revision}</version>
+    </parent>
+
+    <artifactId>jk-common</artifactId>
+    <packaging>pom</packaging>
+
+    <description>公共聚合模块</description>
+
+
+    <modules>
+        <module>jk-common-bom</module>
+        <module>jk-common-core</module>
+        <module>jk-common-feign</module>
+        <module>jk-common-security</module>
+        <module>jk-common-log</module>
+        <module>jk-common-mybatis</module>
+        <module>jk-common-swagger</module>
+        <module>jk-common-oss</module>
+        <module>jk-common-excel</module>
+    </modules>
+
+</project>

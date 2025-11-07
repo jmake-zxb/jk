@@ -1,0 +1,5 @@
+com.jk.common.core.config.JacksonConfiguration
+com.jk.common.core.config.RedisTemplateConfiguration
+com.jk.common.core.config.RestTemplateConfiguration
+com.jk.common.core.util.SpringContextHolder
+com.jk.common.core.config.WebMvcConfiguration

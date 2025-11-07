@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/jk-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-boot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-bom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-bom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-excel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-excel/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-feign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-oss/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/jk-common-swagger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-upms/jk-upms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-upms/jk-upms-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-upms/jk-upms-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-upms/jk-upms-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-upms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jk-upms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

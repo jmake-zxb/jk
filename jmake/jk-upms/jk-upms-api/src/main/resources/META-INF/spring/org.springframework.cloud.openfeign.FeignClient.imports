@@ -1,0 +1,6 @@
+com.jk.admin.api.feign.RemoteClientDetailsService
+com.jk.admin.api.feign.RemoteDictService
+com.jk.admin.api.feign.RemoteLogService
+com.jk.admin.api.feign.RemoteParamService
+com.jk.admin.api.feign.RemoteTokenService
+com.jk.admin.api.feign.RemoteUserService

@@ -1,0 +1,15 @@
+package com.jk.admin.mapper;
+
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.jk.admin.api.entity.SysLog;
+import org.apache.ibatis.annotations.Mapper;
+
+/**
+ * 系统日志表 Mapper 接口
+ *
+ * @author lengleng
+ */
+@Mapper
+public interface SysLogMapper extends BaseMapper<SysLog> {
+
+}

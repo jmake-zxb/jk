@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.jk</groupId>
+        <artifactId>jmake</artifactId>
+        <version>${revision}</version>
+    </parent>
+
+    <artifactId>jk-boot</artifactId>
+    <packaging>jar</packaging>
+
+    <description>单体版本启动</description>
+
+    <dependencies>
+        <!--必备：认证中心模块 -->
+        <dependency>
+            <groupId>com.jk</groupId>
+            <artifactId>jk-auth</artifactId>
+            <version>${revision}</version>
+        </dependency>
+        <!--必备：用户管理模块 -->
+        <dependency>
+            <groupId>com.jk</groupId>
+            <artifactId>jk-upms-biz</artifactId>
+            <version>${revision}</version>
+        </dependency>
+        <!--安全模块 -->
+        <dependency>
+            <groupId>com.jk</groupId>
+            <artifactId>jk-common-security</artifactId>
+        </dependency>
+        <!-- 接口文档UI -->
+        <dependency>
+            <groupId>org.springdoc</groupId>
+            <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springdoc</groupId>
+            <artifactId>springdoc-openapi-starter-webmvc-api</artifactId>
+        </dependency>
+        <!-- knife4j -->
+        <dependency>
+            <groupId>com.github.xiaoymin</groupId>
+            <artifactId>knife4j-openapi3-ui</artifactId>
+        </dependency>
+        <!--接口文档 -->
+        <dependency>
+            <groupId>com.jk</groupId>
+            <artifactId>jk-common-swagger</artifactId>
+        </dependency>
+        <!--undertow容器 -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-undertow</artifactId>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

@@ -1,0 +1,3 @@
+com.jk.common.feign.JkFeignAutoConfiguration
+com.jk.common.feign.sentinel.SentinelAutoConfiguration
+com.jk.common.feign.sentinel.handle.GlobalBizExceptionHandler
